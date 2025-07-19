@@ -1,8 +1,0 @@
-# Django Framework
-django
-
-# For connecting Django to PostgreSQL
-psycopg2-binary
-
-# For building the REST API
-djangorestframework
